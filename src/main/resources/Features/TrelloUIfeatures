@@ -10,7 +10,7 @@
       E comento "<Comment>"
       Entao o card deve ester na lista
       Quando excluo o card
-      Entao o card não existe mais
+      Entao o card nao existe mais
       Exemplos:
         |Card Name    | Comment                 |
         |Neto Card 1  | Comentario Neto Card 1  |
