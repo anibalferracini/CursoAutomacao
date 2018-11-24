@@ -15,10 +15,10 @@ public class Hook {
         diver = new ChromeDriver();
     }
 
-    @After
-    public void after(){
-        diver.quit();
-    }
+    //@After
+    //public void after(){
+    //    diver.quit();
+    //}
 
     public static WebDriver getDiver(){
         return diver;
