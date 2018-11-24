@@ -14,5 +14,3 @@
       Exemplos:
         |Card Name    | Comment                 |
         |Neto Card 1  | Comentario Neto Card 1  |
-        |Neto Card 2  | Comentário Neto Card 2  |
-        |Neto Card 3  | Comentãrio Net* C@rd 3  |
