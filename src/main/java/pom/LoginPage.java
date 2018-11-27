@@ -30,7 +30,7 @@ public class LoginPage {
         return this;
     }
 
-    public LoginPage doLoguin(String user, String password, String login) {
+    public LoginPage doLoguin(String user, String password) {
         userInput.sendKeys(user);
         passwordInput.sendKeys(password);
         loginButton.click();
